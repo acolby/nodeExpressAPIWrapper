@@ -1,0 +1,23 @@
+{
+  "name": "apiWrapper",
+  "version": "0.0.0",
+  "description": "wrapper that im working on to go around apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acolby/nodeExpressAPIWrapper.git"
+  },
+  "author": "acolby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acolby/nodeExpressAPIWrapper/issues"
+  },
+  "homepage": "https://github.com/acolby/nodeExpressAPIWrapper",
+  "dependencies": {
+    "paperwork": "^2.0.2",
+    "q": "^1.2.0"
+  }
+}
